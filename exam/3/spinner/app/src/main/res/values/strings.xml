@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <array name="company">
+        <item>lenovo</item>
+        <item>samsung</item>
+        <item>mi</item>
+        <item>vivo</item>
+    </array>
+</resources>
